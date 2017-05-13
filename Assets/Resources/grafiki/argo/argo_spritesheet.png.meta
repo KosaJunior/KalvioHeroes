@@ -1,0 +1,384 @@
+fileFormatVersion: 2
+guid: 2d42391f3603b444eafb6e12b359e825
+timeCreated: 1487614587
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: argo_spritesheet_0
+    21300002: argo_spritesheet_1
+    21300004: prawo5
+    21300006: prawo7
+    21300008: argo_spritesheet_4
+    21300010: prawo1
+    21300012: prawo2
+    21300014: prawo3
+    21300016: prawo4
+    21300018: prawo6
+    21300020: prawo8
+    21300022: prawo9
+    21300024: argo_spritesheet_13
+    21300026: lewo9
+    21300028: lewo8
+    21300030: lewo7
+    21300032: lewo6
+    21300034: lewo5
+    21300036: lewo4
+    21300038: lewo3
+    21300040: lewo2
+    21300042: lewo1
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: argo_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 976
+        width: 204
+        height: 540
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4262962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: argo_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 976
+        width: 199
+        height: 536
+      alignment: 9
+      pivot: {x: 0.5000002, y: 0.4262962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: prawo5
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 540
+        width: 213
+        height: 437
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: prawo7
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 541
+        width: 285
+        height: 436
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: argo_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 543
+        width: 102
+        height: 417
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: prawo1
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 543
+        width: 300
+        height: 425
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: prawo2
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 536
+        width: 287
+        height: 416
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: prawo3
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 537
+        width: 313
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: prawo4
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 540
+        width: 202
+        height: 414
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: prawo6
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 540
+        width: 201
+        height: 436
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: prawo8
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 542
+        width: 256
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: prawo9
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 543
+        width: 272
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: argo_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 101
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lewo9
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 16
+        width: 273
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lewo8
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 16
+        width: 255
+        height: 425
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lewo7
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 16
+        width: 285
+        height: 437
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lewo6
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 17
+        width: 202
+        height: 435
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lewo5
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 17
+        width: 214
+        height: 435
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lewo4
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 16
+        width: 202
+        height: 412
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lewo3
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 15
+        width: 313
+        height: 399
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lewo2
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 14
+        width: 288
+        height: 414
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lewo1
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 17
+        width: 270
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
