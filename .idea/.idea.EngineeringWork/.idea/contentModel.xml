@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Dom\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Dom\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_EngineeringWork.1734999967.00" t="ExcludeRecursive" />
+    <e p="E:\EngineeringWork" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="arrow.cs" t="Include" />
+          <e p="CameraFollow.cs" t="Include" />
+          <e p="CastLight2D.cs" t="Include" />
+          <e p="closeLoadScreen.cs" t="Include" />
+          <e p="cursorOn.cs" t="Include" />
+          <e p="drop_loot.cs" t="Include" />
+          <e p="Drzwi_script.cs" t="Include" />
+          <e p="enemy.cs" t="Include" />
+          <e p="Enemy_archer.cs" t="Include" />
+          <e p="enemys_script.cs" t="Include" />
+          <e p="exitGame.cs" t="Include" />
+          <e p="FadeMe.cs" t="Include" />
+          <e p="FadeMeOut.cs" t="Include" />
+          <e p="gameController.cs" t="Include" />
+          <e p="HoverSound.cs" t="Include" />
+          <e p="keys_script.cs" t="Include" />
+          <e p="krata2_script.cs" t="Include" />
+          <e p="krata_script.cs" t="Include" />
+          <e p="LoadLevel.cs" t="Include" />
+          <e p="menuMusic.cs" t="Include" />
+          <e p="mury_script.cs" t="Include" />
+          <e p="musicFadeIn.cs" t="Include" />
+          <e p="musicFadeOut.cs" t="Include" />
+          <e p="next_floor.cs" t="Include" />
+          <e p="notka_script.cs" t="Include" />
+          <e p="open_door.cs" t="Include" />
+          <e p="owocki_script.cs" t="Include" />
+          <e p="pajak_script.cs" t="Include" />
+          <e p="PlayerMovement.cs" t="Include" />
+          <e p="playerStats.cs" t="Include" />
+          <e p="PressToContinue.cs" t="Include" />
+          <e p="RaycastMask.cs" t="Include" />
+          <e p="sceneCamera.cs" t="Include" />
+          <e p="showButtonSecondGraphic.cs" t="Include" />
+          <e p="sterowanie.cs" t="Include" />
+          <e p="test.cs" t="Include" />
+        </e>
+      </e>
+      <e p="EngineeringWork.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
