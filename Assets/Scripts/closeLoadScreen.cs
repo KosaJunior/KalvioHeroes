@@ -15,7 +15,7 @@ public class closeLoadScreen : MonoBehaviour {
     IEnumerator splash_screen()
     {
         yield return new WaitForSeconds(12);
-        GetComponent<FadeOut>().enabled = true;
+//        GetComponent<FadeOut>().enabled = true;
         yield return new WaitForSeconds(3);
         Destroy(this.gameObject);
         levelToLoad.SetActive(true);

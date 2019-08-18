@@ -115,8 +115,8 @@ public class sceneCamera : MonoBehaviour
         tekst[10].GetComponent<FadeMeOut>().enabled = true;
 
         yield return new WaitForSeconds(4);
-        GetComponent<FadeOut>().enabled = true;
-        GetComponent<musicFadeOut>().findAudio();
+//        GetComponent<FadeOut>().enabled = true;
+//        GetComponent<musicFadeOut>().findAudio();
         yield return new WaitForSeconds(3);
         Destroy(GameObject.Find("muzyka"));
     }
